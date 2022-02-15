@@ -1,12 +1,12 @@
 # Ola! Eu sou Gustavo Vilas Boas 👋
 ### Front-end Developer
 
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vilas-boas-580185218)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo02.vilas/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gustavo.vilasboassilva)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gutog2105@gmail.com)
+
+<br>
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoVilasBSilva&show_icons=true&theme=tokyonight&border_color=6959CD)
 
