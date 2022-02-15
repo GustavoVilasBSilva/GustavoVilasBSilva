@@ -2,16 +2,15 @@
 ### Front-end Developer
 
 <br>
-<br>
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vilas-boas-580185218)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo02.vilas/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gustavo.vilasboassilva)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gutog2105@gmail.com)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoVilasBSilva&show_icons=true&theme=tokyonight)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoVilasBSilva&show_icons=true&theme=tokyonight&border_color=6959CD)
 
+<hr>
 
 
 ### Tecnologias que eu uso no meu dia-a-dia.
@@ -23,6 +22,4 @@
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
 
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVilasBSilva&layout=compact&theme=tokyonight&border_color=0000CD)](https://github.com/GustavoVilasBSilva?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVilasBSilva&layout=compact&theme=tokyonight&border_color=6959CD)](https://github.com/GustavoVilasBSilva?tab=repositories)
