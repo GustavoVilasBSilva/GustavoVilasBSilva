@@ -1,5 +1,5 @@
 # Ola! Eu sou Gustavo Vilas Boas 👋
-### Front-end Developer
+### Front-end Developer|React.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vilas-boas-580185218)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo02.vilas/)
