@@ -23,5 +23,6 @@
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
+[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVilasBSilva&layout=compact&theme=tokyonight&border_color=6959CD)](https://github.com/GustavoVilasBSilva?tab=repositories)
