@@ -1,4 +1,6 @@
-# E aí tudo bem? Gustavo Vilas Boas aqui 👋 <br /> Seja bem vindo ao meu github!
+# E aí, tudo bem? Gustavo Vilas Boas aqui 👋<br /> Seja bem vindo ao meu github!
+
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoVilasBSilva&show_icons=true&theme=tokyonight&border_color=6959CD)
 
 ---
 
@@ -14,6 +16,7 @@
 - 🖥️ Sou desenvolvedor front-end
 - 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistema
 - 🌱 Trabalho com React.js, Next.js e React Native
+- 👨‍💻 Trabalho na [Palattine Design Crew](https://palattine.com.br/pt-br/home)
 
 Sou apaixonado pelo que faço, e por isso sempre estou em busca de conhecimentos e novos desafios para aprimorar minhas habilidades, com determinação e persistência, busco cumprir meus objetivos pessoais e profissionais a fim de traçar novos objetivos.
 
