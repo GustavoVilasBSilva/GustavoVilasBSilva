@@ -1,6 +1,4 @@
-# E aí tudo bem? Gustavo Vilas Boas aqui 👋
-
-## Seja bem vindo ao meu github!
+# E aí tudo bem? Gustavo Vilas Boas aqui 👋 <br /> Seja bem vindo ao meu github!
 
 ---
 
